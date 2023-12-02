@@ -1,3 +1,18 @@
+![Weather App](src/assets/myScreen.png)
+
+# Introduction
+This is a simple React app that uses the [OpenWeatherMap API](https://openweathermap.org/api) to display the current weather for a given city. It also displays a 5-day forecast for the city. This React app is utilizing Tailwind CSS for styling.
+
+## Features
+- Search for a city by name
+- Display the current weather for the city
+- Display a 5-day forecast for the city
+
+## How to Use
+1. Clone the repository
+2. Run `npm install` to install the dependencies
+3. Run `npm start` to start the app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
