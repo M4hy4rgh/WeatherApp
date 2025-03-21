@@ -12,12 +12,12 @@ This is a simple React app that uses the [OpenWeatherMap API](https://openweathe
 - 🧭 Quick access to major city weather with one click
 - 🌡️ Toggle between metric (°C) and imperial (°F) units
 - 🔎 View detailed current weather conditions:
-- - Current temperature
-- - "Feels like" temperature
-- - Wind speed
-- - Humidity
-- - Sunrise and sunset times
-- - Daily high and low temperatures
+  - Current temperature
+  - "Feels like" temperature
+  - Wind speed
+  - Humidity
+  - Sunrise and sunset times
+  - Daily high and low temperatures
 
 - 📅 5-day weather forecast
 - 📱 Fully responsive design for all devices
