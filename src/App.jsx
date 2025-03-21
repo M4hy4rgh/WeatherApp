@@ -36,7 +36,7 @@ function App() {
     }, [q, units]);
 
     return (
-        <div className="min-h-screen min-w-screen bg-black/25 bg-[url(assets/myPic.jpg)] bg-blend-multiply bg-cover bg-center bg-no-repeat flex justify-center items-start select-none">
+        <div className="min-h-screen bg-black/25 bg-[url(assets/myPic.jpg)] bg-blend-multiply bg-cover bg-center bg-no-repeat flex justify-center items-start select-none">
             <div className="min-w-2xs w-5/6 max-w-2xl flex flex-col justify-center items-center mx-auto py-5 my-4 border border-white shadow-md md:shadow-lg shadow-gray-400">
                 <CitySelector setQ={setQ} activeCity="toronto" />
                 <Inputs setQ={setQ} units={units} setUnits={setUnits} />
